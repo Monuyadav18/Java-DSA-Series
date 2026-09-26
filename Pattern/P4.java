@@ -1,4 +1,4 @@
-public class p4 {
+public class P4 {
   public static void  main(String[] args) {
     int n = 5;
     // for space

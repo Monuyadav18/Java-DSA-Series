@@ -1,4 +1,4 @@
-public class p8 {
+public class P8 {
   public static void main (String[] args) {
     int n = 4;
     for(int row = 1; row <= n; row++) {
