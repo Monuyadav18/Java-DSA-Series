@@ -1,10 +1,11 @@
+# Java compiled files
 *.class
-target/
-build/
 out/
 
+# IntelliJ IDEA
 .idea/
-.vscode/
 *.iml
 
-*.log
+# Build folders
+target/
+build/
