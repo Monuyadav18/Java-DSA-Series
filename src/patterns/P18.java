@@ -1,3 +1,5 @@
+package patterns;
+
 public class P18 {
     public static void main(String[] args) {
         int n = 5;
